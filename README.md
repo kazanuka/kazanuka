@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Furkan Kuyumvu======================================================================================================================================AI and ML Learner-----------------Student at 42 Istanbul and Tekirdag Namik Kemal University. Interested in especially image processing, AI and data science.* ✉️  You can contact me at [fkuyumcu@yahoo.com](mailto:fkuyumcu@yahoo.com)* 🤝  I'm open to collaborating on Machine Learning and LLM Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Furkan
+
+Student at 42 Istanbul and Tekirdag Namik Kemal University. Interested in especially image processing, AI and data science.* ✉️  You can contact me at [fkuyumcu@yahoo.com](mailto:fkuyumcu@yahoo.com)* 🤝  I'm open to collaborating on Machine Learning and LLM Projects
 
 ### Skills
 
